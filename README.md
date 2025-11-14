@@ -1,6 +1,6 @@
 # Node.js Course - S09 Dynamic Routes & Advanced Models
 
-Practice code for Section 09 - Dynamic Routes & Advanced Models, part of the course "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)" by Maximilian Schwarzmüller.
+Practice code for Section 09 - Dynamic Routes & Advanced Models, part of the course "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)" by Academind, Maximilian Schwarzmüller.
 
 This project covers:
 - Implementing dynamic routes in Express
